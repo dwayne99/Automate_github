@@ -5,6 +5,7 @@ This is an automation script written in Python using the Selenium web automation
 ## Installation
 
 ```bash
+pip install python
 pip install selenium
 ```
     
